@@ -65,14 +65,12 @@ export default function Nav() {
 
           {/* Mobile hamburger */}
           <Sheet open={open} onOpenChange={setOpen}>
-            <SheetTrigger>
-              <button
-                className="md:hidden p-2 rounded"
-                style={{ color: "#F5F7FA" }}
-                aria-label="Open navigation menu"
-              >
-                <Menu className="w-6 h-6" />
-              </button>
+            <SheetTrigger
+              className="md:hidden p-2 rounded"
+              style={{ color: "#F5F7FA" }}
+              aria-label="Open navigation menu"
+            >
+              <Menu className="w-6 h-6" aria-hidden="true" />
             </SheetTrigger>
             <SheetContent
               side="right"

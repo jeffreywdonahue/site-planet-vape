@@ -2,31 +2,31 @@ const reviews = [
   {
     author: "Bruce Werner",
     rating: 5,
-    text: "Tons of options and I requested some things and like a week or so later they had it in stock. Cool to see a shop that goes with what the customers want",
+    text: "Shit was poppin. Tons of options and I requested some things and like a week or so later they had it in stock. Cool to see a shop that goes with what the customers want",
     date: "Oct 2025",
   },
   {
     author: "Heather Howlett",
     rating: 5,
-    text: "Bri was super helpful, didn't have the brand I was looking for. But she suggested another, super nice environment. Happy to be here! Love her!",
+    text: "Bri was super helpful, didn\u2019t have the brand I was looking for. But she suggested another, super nice environment. Happy to be here! Love her!",
     date: "Nov 2025",
   },
   {
     author: "Brooklynn Tiva",
     rating: 5,
-    text: "The BEST vape store in all of Farmington. Wide selection and options to choose from. Staff is amazing, resourceful, and helpful. 10/10 5/5 stars!!",
+    text: "The BEST vape store in all of Farmington. Wide selection and options to choose from. Staff is amazing, resourceful, and helpful. I\u2019ve never had any problems with any of the product I\u2019ve purchased from them. I 100% would recommend going to this store. 10/10 5/5 stars!!",
     date: "Oct 2025",
   },
   {
     author: "Uriah Day",
     rating: 5,
-    text: "Very friendly staff, got to speak with Clay and he had us in and out quickly. 10/10 would recommend",
+    text: "Very friendly staff, got to speak with Clay and he had us in and out quickly and made sure to let us know we should have a good night and a happy new year. 10/10 would recommend",
     date: "Dec 2025",
   },
   {
     author: "Shorty Herrera",
     rating: 5,
-    text: "Planet vape has a great selection, plenty to choose from. Great staff Bree was very nice and helpful! I plan to be a loyal customer thanks to her.",
+    text: "Planet vape has a great selection, plenty to choose from. Great staff Bree was very nice and helpful! I plan to be loyal customer thanks to her.",
     date: "Jan 2026",
   },
 ];
