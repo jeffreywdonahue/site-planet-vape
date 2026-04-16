@@ -77,7 +77,7 @@ export default function Nav() {
               className="border-l"
               style={{ backgroundColor: "#111F33", borderColor: "#1FA6B3" }}
             >
-              <nav className="flex flex-col gap-6 mt-8">
+              <nav className="flex flex-col gap-6 mt-8 px-4">
                 <span
                   className="font-bold text-lg uppercase tracking-widest"
                   style={{
